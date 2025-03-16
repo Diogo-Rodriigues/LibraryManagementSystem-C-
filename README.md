@@ -30,6 +30,7 @@ To build and run this project, you need:
 
 2. Create a build directory and compile the project:
    ```bash
+   mkdir -p build
    cd build
    cmake ..
    make
