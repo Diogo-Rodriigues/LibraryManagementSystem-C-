@@ -24,7 +24,7 @@ To build and run this project, you need:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/library-management.git
+   git clone https://github.com/Diogo-Rodriigues/LibraryManagementSystem-Cpp.git
    cd library-management
    ```
 
@@ -94,13 +94,19 @@ library_manager/
 
 Contributions to improve the Library Management System are welcome. Please follow these steps:
 
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes
-4. Run the tests to ensure everything works (`./bin/run_tests`)
-5. Commit your changes (`git commit -m 'Add some amazing feature'`)
-6. Push to the branch (`git push origin feature/amazing-feature`)
-7. Open a Pull Request
+1. Fork the repository:
+   ![fork](https://github.com/user-attachments/assets/40a18cf5-031e-4134-bd73-e87cf22b57aa)
+2. Clone the fork (`git clone repository_link`)
+3. Navigate to the project directory (`cd LibraryManagementSystem-Cpp`)
+4. Create a new branch (`git checkout -b feature/feature_name`)
+5. Make your changes
+6. Run the tests to ensure everything works (`./bin/run_tests`)
+7. Commit your changes (`git add file_name`) | (`git commit -m "description"`)
+8. Push to the branch (`git push origin feature/feature_name`)
+9. Open a Pull Request
+   ![pr](https://github.com/user-attachments/assets/0fb5947b-2a31-4240-b00d-12c9de24eee7)
+10. Add a title and description for your Pull Request:
+    ![submmit](https://github.com/user-attachments/assets/a30c6f0a-8752-43c4-965a-279220b01279)
 
 ### Contribution Guidelines
 
